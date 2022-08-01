@@ -1,0 +1,1 @@
+console.log(prop + ": " + john[prop]);
